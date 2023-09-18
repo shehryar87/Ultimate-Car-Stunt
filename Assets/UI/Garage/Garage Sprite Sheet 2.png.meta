@@ -1,0 +1,541 @@
+fileFormatVersion: 2
+guid: 9b8c46f9a95474b41ba26f23bb384914
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 53
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Garage Sprite Sheet 2_5
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 862
+        width: 482
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 333d567a848e1bf4aa2638a915ccf82c
+      internalID: -1341973132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Garage Sprite Sheet 2_6
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 862
+        width: 484
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e7bde27604a69944adf1a631ffd1867
+      internalID: 51415283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Garage Sprite Sheet 2_17
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 672
+        width: 481
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b4e5da81062584fa2c592e14269b5d
+      internalID: -1878113330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Garage Sprite Sheet 2_18
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 677
+        width: 480
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4536369d24c292443be753f87b3863e0
+      internalID: 932319214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Garage Sprite Sheet 2_21
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 652
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f1101d1792c4b46a369070049a938b
+      internalID: -872119731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Garage Sprite Sheet 2_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 104
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae7a8d89cfc9f2244a20ab374d1bd5fb
+      internalID: 1215914094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Garage Sprite Sheet 2_24
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 632
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d82e90aa6badb2458e83f7ccdd1aa0f
+      internalID: -501463189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Garage Sprite Sheet 2_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 536
+        width: 8
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09028fb80ba8e1446b07556875fef3cd
+      internalID: -295847799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Garage Sprite Sheet 2_26
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 496
+        width: 481
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb57455dc98ce4439019425e4ea4f0a
+      internalID: -1066396493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Garage Sprite Sheet 2_28
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 496
+        width: 482
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a656d88492d14704ea16b8a4dd4eba78
+      internalID: -427106000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Garage Sprite Sheet 2_29
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 496
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e6128bc2ce689489326411ac0e2357
+      internalID: 728781307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Garage Sprite Sheet 2_31
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 271
+        width: 338
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78fa3020fb9e06a40a21d408f36dd0be
+      internalID: -2075169125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Garage Sprite Sheet 2_32
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 270
+        width: 339
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb44c6b5bef256449bbce757d3b36999
+      internalID: 1186497008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Garage Sprite Sheet 2_33
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 272
+        width: 336
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6a048d4b591bdf4792a1db26b29c01a
+      internalID: -1789452548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Garage Sprite Sheet 2_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 28
+        width: 339
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2474ba570bed28b43a8e2f1db73a0051
+      internalID: 1163237046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Garage Sprite Sheet 2_35
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 24
+        width: 340
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea60be23e98a1b44815f569c556a8b6
+      internalID: -1599477641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Garage Sprite Sheet 2_36
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 22
+        width: 340
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd8a3369557bb064eb737c648095c9fc
+      internalID: 66065111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: f64a57b7b3423714faf50d1e00bda272
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Garage Sprite Sheet 2_0: -1118279543
+      Garage Sprite Sheet 2_1: 268616273
+      Garage Sprite Sheet 2_10: 849223510
+      Garage Sprite Sheet 2_11: -2022254455
+      Garage Sprite Sheet 2_12: 1999898248
+      Garage Sprite Sheet 2_13: -565949264
+      Garage Sprite Sheet 2_14: -73737164
+      Garage Sprite Sheet 2_15: 1051673847
+      Garage Sprite Sheet 2_16: 1441529425
+      Garage Sprite Sheet 2_17: -1878113330
+      Garage Sprite Sheet 2_18: 932319214
+      Garage Sprite Sheet 2_19: 409082071
+      Garage Sprite Sheet 2_2: -1401845246
+      Garage Sprite Sheet 2_20: 251306827
+      Garage Sprite Sheet 2_21: -872119731
+      Garage Sprite Sheet 2_22: 1215914094
+      Garage Sprite Sheet 2_23: -1940555932
+      Garage Sprite Sheet 2_24: -501463189
+      Garage Sprite Sheet 2_25: -295847799
+      Garage Sprite Sheet 2_26: -1066396493
+      Garage Sprite Sheet 2_27: -259215330
+      Garage Sprite Sheet 2_28: -427106000
+      Garage Sprite Sheet 2_29: 728781307
+      Garage Sprite Sheet 2_3: 376975625
+      Garage Sprite Sheet 2_30: -1206879835
+      Garage Sprite Sheet 2_31: -2075169125
+      Garage Sprite Sheet 2_32: 1186497008
+      Garage Sprite Sheet 2_33: -1789452548
+      Garage Sprite Sheet 2_34: 1163237046
+      Garage Sprite Sheet 2_35: -1599477641
+      Garage Sprite Sheet 2_36: 66065111
+      Garage Sprite Sheet 2_4: -542269913
+      Garage Sprite Sheet 2_5: -1341973132
+      Garage Sprite Sheet 2_6: 51415283
+      Garage Sprite Sheet 2_7: -1733229942
+      Garage Sprite Sheet 2_8: -897093355
+      Garage Sprite Sheet 2_9: -1847632474
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

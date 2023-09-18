@@ -1,0 +1,399 @@
+fileFormatVersion: 2
+guid: 1c15a2c2510793349bf77dc49c2804fd
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 65
+    textureCompression: 1
+    compressionQuality: 30
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Level Complete, Pause and Fail Sprite Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1832
+        width: 906
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e7561584ec6f54a9b9c4530adb5f91
+      internalID: -1202070612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level Complete, Pause and Fail Sprite Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1610
+        width: 923
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc822a152ab52994780a32d4f4640a88
+      internalID: -2058283911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level Complete, Pause and Fail Sprite Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 649
+        width: 913
+        height: 1036
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd76f71c7e0988c42a43f9e3fb673338
+      internalID: 1683157709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level Complete, Pause and Fail Sprite Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1375
+        width: 983
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c9159c800918ca438bc8ff561971d24
+      internalID: -445088217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level Complete, Pause and Fail Sprite Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1127
+        width: 825
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0271524fa6b066b41b0de82949145cb4
+      internalID: -1685709501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level Complete, Pause and Fail Sprite Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 879
+        width: 827
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e868fd5cfaa39b4ba87252bb4b682ff
+      internalID: 1302219727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level Complete, Pause and Fail Sprite Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 635
+        width: 807
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd75c4fad1ed464f85d12a16f252143
+      internalID: -2109821446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level Complete, Pause and Fail Sprite Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 383
+        width: 837
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40295a5f33c260a4da8ebd8226e3f1d0
+      internalID: 55132828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level Complete, Pause and Fail Sprite Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 137
+        width: 811
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0871dfaed71aa458acc29f81590b0d
+      internalID: -1853852977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 8514a9a6cc5d59e4e95b7fd5ab993ef9
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Level Complete, Pause and Fail Sprite Sheet_0: 569416920
+      Level Complete, Pause and Fail Sprite Sheet_1: -1202070612
+      Level Complete, Pause and Fail Sprite Sheet_10: 779744125
+      Level Complete, Pause and Fail Sprite Sheet_11: 621031775
+      Level Complete, Pause and Fail Sprite Sheet_12: 879325230
+      Level Complete, Pause and Fail Sprite Sheet_13: 1685398418
+      Level Complete, Pause and Fail Sprite Sheet_14: -1685709501
+      Level Complete, Pause and Fail Sprite Sheet_15: -874039753
+      Level Complete, Pause and Fail Sprite Sheet_16: 396525394
+      Level Complete, Pause and Fail Sprite Sheet_17: -1182229108
+      Level Complete, Pause and Fail Sprite Sheet_18: -1146454919
+      Level Complete, Pause and Fail Sprite Sheet_19: 1439259637
+      Level Complete, Pause and Fail Sprite Sheet_2: -96190612
+      Level Complete, Pause and Fail Sprite Sheet_20: 1717668397
+      Level Complete, Pause and Fail Sprite Sheet_21: -892864795
+      Level Complete, Pause and Fail Sprite Sheet_22: -1074436947
+      Level Complete, Pause and Fail Sprite Sheet_23: 1389739092
+      Level Complete, Pause and Fail Sprite Sheet_24: 1579599485
+      Level Complete, Pause and Fail Sprite Sheet_25: 1302219727
+      Level Complete, Pause and Fail Sprite Sheet_26: -1617337879
+      Level Complete, Pause and Fail Sprite Sheet_27: -806816936
+      Level Complete, Pause and Fail Sprite Sheet_28: -2109821446
+      Level Complete, Pause and Fail Sprite Sheet_29: -1740467783
+      Level Complete, Pause and Fail Sprite Sheet_3: -73662077
+      Level Complete, Pause and Fail Sprite Sheet_30: -488042553
+      Level Complete, Pause and Fail Sprite Sheet_31: 70994678
+      Level Complete, Pause and Fail Sprite Sheet_32: 146867875
+      Level Complete, Pause and Fail Sprite Sheet_33: -908951275
+      Level Complete, Pause and Fail Sprite Sheet_34: 1922916036
+      Level Complete, Pause and Fail Sprite Sheet_35: 647106563
+      Level Complete, Pause and Fail Sprite Sheet_36: -937373343
+      Level Complete, Pause and Fail Sprite Sheet_37: 1983635682
+      Level Complete, Pause and Fail Sprite Sheet_38: 1236206639
+      Level Complete, Pause and Fail Sprite Sheet_39: 55132828
+      Level Complete, Pause and Fail Sprite Sheet_4: -2058283911
+      Level Complete, Pause and Fail Sprite Sheet_40: 806462969
+      Level Complete, Pause and Fail Sprite Sheet_41: 74777617
+      Level Complete, Pause and Fail Sprite Sheet_42: 1847889043
+      Level Complete, Pause and Fail Sprite Sheet_43: 548532904
+      Level Complete, Pause and Fail Sprite Sheet_44: 736432815
+      Level Complete, Pause and Fail Sprite Sheet_45: -1747319490
+      Level Complete, Pause and Fail Sprite Sheet_46: 931318308
+      Level Complete, Pause and Fail Sprite Sheet_47: -589554036
+      Level Complete, Pause and Fail Sprite Sheet_48: -1362621848
+      Level Complete, Pause and Fail Sprite Sheet_49: 1858886257
+      Level Complete, Pause and Fail Sprite Sheet_5: -1034690643
+      Level Complete, Pause and Fail Sprite Sheet_50: -1853852977
+      Level Complete, Pause and Fail Sprite Sheet_51: -162381324
+      Level Complete, Pause and Fail Sprite Sheet_52: -793779721
+      Level Complete, Pause and Fail Sprite Sheet_53: -1309300781
+      Level Complete, Pause and Fail Sprite Sheet_54: -714124258
+      Level Complete, Pause and Fail Sprite Sheet_55: -177656612
+      Level Complete, Pause and Fail Sprite Sheet_56: 1732518684
+      Level Complete, Pause and Fail Sprite Sheet_57: 1540304256
+      Level Complete, Pause and Fail Sprite Sheet_58: 1929474070
+      Level Complete, Pause and Fail Sprite Sheet_59: -1875181586
+      Level Complete, Pause and Fail Sprite Sheet_6: 1683157709
+      Level Complete, Pause and Fail Sprite Sheet_60: -534496849
+      Level Complete, Pause and Fail Sprite Sheet_61: -918181425
+      Level Complete, Pause and Fail Sprite Sheet_62: -107747128
+      Level Complete, Pause and Fail Sprite Sheet_7: 1341034990
+      Level Complete, Pause and Fail Sprite Sheet_8: 344957276
+      Level Complete, Pause and Fail Sprite Sheet_9: -445088217
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,314 @@
+fileFormatVersion: 2
+guid: 9bc391789a55d1e40810ee0fc3b3c8e3
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 53
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Main Menu Sprite Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1272
+        width: 704
+        height: 767
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90933abf1a0a96d408fc2b832c15bef5
+      internalID: 942958390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Menu Sprite Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1278
+        width: 1159
+        height: 711
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d596e70541c59241a5187837e1f0ac3
+      internalID: -636216579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Menu Sprite Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 930
+        width: 777
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf4eb754908d0994787b319005aff0d8
+      internalID: 303954229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Menu Sprite Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 671
+        width: 769
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7474fc44efdb3cc4e82b1fd83f3f8c88
+      internalID: -1180028016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Menu Sprite Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 341
+        width: 808
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fce7cb491701a847a2ae1f8c45aa248
+      internalID: -775910301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Menu Sprite Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 46
+        width: 853
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 512fa9b47792e004cb7de0a00bf2bedd
+      internalID: 404695130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 2cad07833303d054d98038a0add2254d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Main Menu Sprite Sheet_0: 942958390
+      Main Menu Sprite Sheet_1: 1302882366
+      Main Menu Sprite Sheet_10: 383043409
+      Main Menu Sprite Sheet_11: 2118284436
+      Main Menu Sprite Sheet_12: 1266765243
+      Main Menu Sprite Sheet_13: -1545333597
+      Main Menu Sprite Sheet_14: -1965693390
+      Main Menu Sprite Sheet_15: -390216202
+      Main Menu Sprite Sheet_16: 1612003101
+      Main Menu Sprite Sheet_17: -483456993
+      Main Menu Sprite Sheet_18: -2141742113
+      Main Menu Sprite Sheet_19: -783604632
+      Main Menu Sprite Sheet_2: -20975883
+      Main Menu Sprite Sheet_20: -1180028016
+      Main Menu Sprite Sheet_21: -979152181
+      Main Menu Sprite Sheet_22: 1285486325
+      Main Menu Sprite Sheet_23: 635571577
+      Main Menu Sprite Sheet_24: -775910301
+      Main Menu Sprite Sheet_25: 1315298624
+      Main Menu Sprite Sheet_26: -1698454448
+      Main Menu Sprite Sheet_27: -498330147
+      Main Menu Sprite Sheet_28: -844335955
+      Main Menu Sprite Sheet_29: 88731492
+      Main Menu Sprite Sheet_3: -989559285
+      Main Menu Sprite Sheet_30: 1670979495
+      Main Menu Sprite Sheet_31: -811738220
+      Main Menu Sprite Sheet_32: 516164732
+      Main Menu Sprite Sheet_33: -1752338748
+      Main Menu Sprite Sheet_34: -545983305
+      Main Menu Sprite Sheet_35: -1594408491
+      Main Menu Sprite Sheet_36: 404695130
+      Main Menu Sprite Sheet_37: 374302760
+      Main Menu Sprite Sheet_38: -1675145537
+      Main Menu Sprite Sheet_39: -664899254
+      Main Menu Sprite Sheet_4: -636216579
+      Main Menu Sprite Sheet_40: 1626012105
+      Main Menu Sprite Sheet_5: -19937870
+      Main Menu Sprite Sheet_6: 303954229
+      Main Menu Sprite Sheet_7: -1061997962
+      Main Menu Sprite Sheet_8: -1658260879
+      Main Menu Sprite Sheet_9: -1465717059
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
